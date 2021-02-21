@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Fabrs
+title: Fabrs | A blog theme for Jekyll
+description: 
 tags:
   - blog
   - template
@@ -19,8 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: faabricio_sena@hotmail.com
 
 
 # Social Media Settings
