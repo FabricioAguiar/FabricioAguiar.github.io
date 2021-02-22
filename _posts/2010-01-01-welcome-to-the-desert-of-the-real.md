@@ -6,8 +6,9 @@ subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: https://github.com/FabricioAguiar/FabricioAguiar.github.io/blob/master/assets/img/uploads/bp.jpg
-optimized_image: https://github.com/FabricioAguiar/FabricioAguiar.github.io/blob/master/assets/img/uploads/bp.jpg
+image: >-
+ https://github.com/FabricioAguiar/FabricioAguiar.github.io/blob/master/assets/img/uploads/bp.jpg?raw=true
+optimized_image: https://github.com/FabricioAguiar/FabricioAguiar.github.io/blob/master/assets/img/uploads/bp.jpg?raw=true
 category: blog
 tags:
   - welcome
